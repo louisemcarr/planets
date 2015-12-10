@@ -1,3 +1,5 @@
+In a galaxy far far away, there is a place called Mars.
+
 Mars is a red planet and there's a robot on Mars that sings itself happy birthday every year.
 
 Adding a new line to this file after the first commit.

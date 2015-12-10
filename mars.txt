@@ -1,2 +1,9 @@
+Mars is a red planet and there's a robot on Mars that sings itself happy birthday every year.
 
-LOL BYE
+Adding a new line to this file after the first commit.
+
+Now adding a third line. There have been commits.
+
+This is ok.....
+
+Just gonna add another line
